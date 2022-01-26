@@ -1,5 +1,5 @@
 #### SWORK 881 GitHub exercise ####
-# NAME: STEPHEN
+# NAME: STEPHEN OLOLADE
 # REDID:
 
 #install tidyverse packages
